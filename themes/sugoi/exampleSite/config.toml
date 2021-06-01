@@ -1,7 +1,7 @@
 theme = "hugo-sugoi"
 baseURL = "https://example.com"
 languageCode = "en-us"
-title = "Sugoi"
+title = "Songwriter"
 summaryLength = 20
 paginate = 5
 # Google Analytics ID, Uncomment below line to enable
