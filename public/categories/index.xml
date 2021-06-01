@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on The Song Catalog</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on The Song Catalog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Apr 2020 22:34:49 +0530</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Air</title>
+      <link>/categories/air/</link>
+      <pubDate>Thu, 23 Apr 2020 22:34:49 +0530</pubDate>
+      
+      <guid>/categories/air/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fire</title>
+      <link>/categories/fire/</link>
+      <pubDate>Sun, 22 Mar 2020 15:05:56 +0530</pubDate>
+      
+      <guid>/categories/fire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fire Alt</title>
+      <link>/categories/fire-alt/</link>
+      <pubDate>Sun, 22 Mar 2020 15:05:56 +0530</pubDate>
+      
+      <guid>/categories/fire-alt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Water</title>
+      <link>/categories/water/</link>
+      <pubDate>Sun, 22 Mar 2020 15:05:45 +0530</pubDate>
+      
+      <guid>/categories/water/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
