@@ -1,7 +1,7 @@
 theme = "sugoi"
 baseURL = ""
 languageCode = "en-us"
-title = "Sugoi"
+title = "The Song Catalog"
 summaryLength = 20
 paginate = 5
 hero = { }
@@ -10,8 +10,8 @@ publishDir = "public"
 
 [params]
 favicon = "images/favicon.png"
-herotitle = "An Ultra Minimal theme!"
-herolink = "https://github.com/aanupam23/hugo-sugoi"
+herotitle = "Songwriter"
+herolink = ""
 herolinktext = "Check Now"
 contact = "Send me a message and I will get back as soon as possible."
 
