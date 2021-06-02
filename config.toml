@@ -9,7 +9,7 @@ themesDir = "themes"
 publishDir = "public"
 
 [params]
-#favicon = "images/favicon.png"
+favicon = "images/favicon.png"
 herotitle = "Songwriter"
 herolink = ""
 herolinktext = "Check Now"
