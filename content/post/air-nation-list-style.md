@@ -17,7 +17,7 @@ You do the Lorem ipsum...and you fill the page with words.
 
 That's what it's all about.
 
-> Great place for a quote!
+> |*Great place for a quote!*
 
 Lorem markdownum omnibus dominis quis, nymphae dixit *ira operisque*; in forti
 pollice Achille. Cursu oculorum sepulcri et malis, calescit repperit sonum:
