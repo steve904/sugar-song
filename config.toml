@@ -1,11 +1,11 @@
 theme = "sugoi"
-baseURL = "http://localhost:1313/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Songwriter"
 summaryLength = 20
 paginate = 5
 hero = { }
-#themesDir = "themes"
+themesDir = "themes"
 publishDir = "public"
 
 [params]
